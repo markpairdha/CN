@@ -1,5 +1,5 @@
 QUESTION 1
-//create an text.txt file in the same directory.(As its size is 0 it didn't load into google drive)
+//create an text.txt file in the same directory.
 cd Desktop
 gcc random.c
 ./random
